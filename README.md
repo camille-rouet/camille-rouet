@@ -2,7 +2,7 @@
 
 🔍 My studies focus on the functioning of mixed forests using process-based modelling and terrestrial laser scanning.
 
-![Static Badge](https://img.shields.io/badge/orcid-grey?style=for-the-badge&logo=Orcid&link=https%3A%2F%2Forcid.org%2Fmy-orcid%3Forcid%3D0009-0006-2076-0869)
+[![Static Badge](https://img.shields.io/badge/orcid-grey?style=for-the-badge&logo=Orcid&link=https%3A%2F%2Forcid.org%2Fmy-orcid%3Forcid%3D0009-0006-2076-0869)](https://orcid.org/0009-0006-2076-0869)
 
 
 <!--
