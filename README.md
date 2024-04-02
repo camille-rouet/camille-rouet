@@ -1,4 +1,8 @@
-### Hi there 👋
+👋 I'm Camille Rouet. I'm a PhD student à INRAE URFM. 
+🔍 My studies focus on the functioning of mixed forests using process-based modelling and terrestrial laser scanning.
+
+![Static Badge](https://img.shields.io/badge/orcid-grey?style=for-the-badge&logo=Orcid&link=https%3A%2F%2Forcid.org%2Fmy-orcid%3Forcid%3D0009-0006-2076-0869)
+
 
 <!--
 **camille-rouet/camille-rouet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
