@@ -1,4 +1,4 @@
-👋 I'm Camille Rouet. I'm a PhD student à INRAE URFM. 
+👋 Hi, I'm Camille Rouet, PhD in forest ecology at Aix-Marseille University.
 
 🔍 My studies focus on the functioning of mixed forests using process-based modelling and terrestrial laser scanning.
 
